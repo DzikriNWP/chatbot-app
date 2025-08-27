@@ -18,7 +18,6 @@ Dibuat untuk memberikan pengalaman percakapan otomatis yang dapat membantu dalam
 
 - **Flutter** untuk pengembangan aplikasi mobile (Android/iOS)
 - **Dart** sebagai bahasa utama
-- **State Management** (misalnya Provider/Bloc — sesuaikan dengan project kamu)
 - **API/AI Engine** untuk mengelola respons chatbot
 
 ---
