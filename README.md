@@ -55,12 +55,13 @@ Berikut beberapa cuplikan tampilan:
 
 ## This app uses Google Gemini API for AI responses. Ensure you have a valid API key:
 
-# Get your API key from Google Cloud Console
+1. Get your API key from Google Cloud Console
+2. Add it in your lib/data/urls.dart:
 
-# Add it in your lib/data/urls.dart:
-
+```bash
 class Urls {
 static const String geminiBaseUrl =
 "YOUR_GEMINI_BASE_URL";
 static const String ApiKey = "YOUR_API_KEY";
 }
+```
